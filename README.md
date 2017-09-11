@@ -7,7 +7,7 @@ Then, register the path as `ENV_PATH` in the source code.
 After that make sure to alias connect_virtualenv as shown below.
 
 ```bash
-$ alias .connect='source ~/bin/.connect_virenv'
+$ alias .connect='source ~/bin/connect_virtualenv'
 ```
 
 Then reconnect the terminal and run alias.
