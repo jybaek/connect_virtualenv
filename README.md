@@ -18,7 +18,7 @@ $ .connect
 You can select a virtual environment as follows:
 
 <div style="width:50%; margin:auto; margin-bottom:10px; margin-top:20px;">
-<img style="width:100%" src="screen1.png">
+<img style="width:100%" src="example.gif">
 </div>
 
 All you have to do is put your `virtualenv` in a specific directory.
