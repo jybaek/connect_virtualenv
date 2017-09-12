@@ -14,7 +14,7 @@ result=$(dialog --menu "Choose virtualenv:" \
 		3>&2 2>&1 1>&3)
 
 for ((i = 0; i < ${#ENVS[@]}; i++));do
-	if [ $result == $i ];then
+	if [ "$result" == $i ];then
 		source ${ENV_PATH}/${ENVS[$i]}/bin/activate
 	fi
 done
