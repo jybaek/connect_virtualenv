@@ -2,7 +2,6 @@
 # Precondition
 #------------------------------------------------------
 # $ sudo apt-get install dialog
-# $ sudo apt-get install expect
 #------------------------------------------------------
 
 ENV_PATH="/Users/jybaek/work/virtualenv"
