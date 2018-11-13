@@ -1,6 +1,12 @@
 # Connect virtualenv
 Helping you easily switch to a `virtualenv`.
 
+## Prerequisite
+Create a python virtual environment as shown below.
+```bash
+$ sh ~/bin/create_virtualenv.sh [YOUR_ENV_NAME]
+```
+
 ## Usage
 Put the `virtualenv` in a specific directory. 
 Then, register the path as `ENV_PATH` in the source code.
